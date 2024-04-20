@@ -1,9 +1,9 @@
 [submodule "canokey-core"]
 	path = canokey-core
-	url = https://github.com/canokeys/canokey-core
+	url = https://mirror.ghproxy.com/https://github.com/canokeys/canokey-core
 [submodule "bootloader"]
 	path = bootloader
-	url = https://github.com/adafruit/Adafruit_nRF52_Bootloader
+	url = https://mirror.ghproxy.com/https://github.com/adafruit/Adafruit_nRF52_Bootloader
 [submodule "utils/uf2"]
 	path = utils/uf2
-	url = https://github.com/microsoft/uf2
+	url = https://mirror.ghproxy.com/https://github.com/microsoft/uf2
